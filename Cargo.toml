@@ -1,0 +1,6 @@
+[package]
+name = "algorithms-in-rust"
+version = "0.1.0"
+authors = ["zjy <irrigator@yeah.net>"]
+
+[dependencies]
